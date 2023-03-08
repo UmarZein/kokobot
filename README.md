@@ -20,6 +20,7 @@ Clone repository ini, kemudian masuk ke folder/directory itu
 
 ```.sh 
 git clone https://github.com/UmarZein/kokobot
+cd kokobot
 ```
 
 Buat modul go
